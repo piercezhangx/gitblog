@@ -1,1 +1,3 @@
 baseurl: /gitblog
+pygments: true
+markdown: rdiscount
