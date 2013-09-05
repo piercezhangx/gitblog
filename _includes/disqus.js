@@ -1,6 +1,6 @@
 <div id="disqus_thread"></div>
 <script type="text/javascript">
-    var disqus_shortname = 'blogclanzxnet';
+    var disqus_shortname = 'blogpiercezhangx';
 
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
